@@ -1,0 +1,137 @@
+.header {
+    padding: 50px;
+    font-style: italic;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    letter-spacing: -1px;
+    line-height: 1;
+    text-align: center;
+    background: #ccccbf;
+    color: rgb(248, 248, 244);
+    font-size: 100px;
+  }
+
+  .velkomst {
+    color: #696969;
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 32px;
+    margin:10 0 -2px;
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 5px;
+    margin-left: 80px;
+  }
+
+.header_plants {
+    padding: 30px;
+    font-style: italic;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: bolder;
+    letter-spacing: -2px;
+    line-height: 1;
+    text-align: middle;
+    background: #42573d;
+    color: rgb(248, 248, 244);
+    font-size: 80px;
+  }
+
+.header_fjell {
+    padding: 60px;
+    font-style: italic;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    letter-spacing: -1px;
+    line-height: 1;
+    text-align: center;
+    background:#5b7372;
+    color: rgb(248, 248, 244);
+    font-size: 40px;
+  }
+
+h2 {
+    color: #696969;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 32px;
+    margin:5 0 -2px;
+    text-align: left;
+    margin-left: 80px;
+}
+
+body {
+    color: #685206; 
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-size: 12px; 
+    line-height: 24px; 
+    margin: 0 0 0px; 
+    text-align: justify; 
+    text-justify: inter-word;
+}
+
+p {
+    color: #685206; 
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-size: 14px; 
+    line-height: 24px; 
+    margin: 0 0 10px; 
+    text-align: justify; 
+    text-justify: inter-word;
+    margin-right: 150px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+
+ul {
+    font: i'Helvetica Neue', sans-serif;
+    font-size:large;
+	letter-spacing: 1px; 
+    margin-bottom: 0; 
+    color: #383730;
+}
+a:link, a:visited {
+    background-color: #94a586;
+    color: white;
+    padding: 1px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover {
+    background-color: #e4ebde;
+    color: white;
+    padding: 1px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:active {
+    color: #2F4F4F;
+    text-decoration: none;
+}
+
+div.a {
+    width: auto;
+    border: 0,2px solid rgb(161, 158, 158);
+  }
+
+img {
+    width: 200px;
+    margin-left: 80px;
+}
+
+.bilder {
+    margin-top: 80px;
+}
+
+.boks {
+    display: flex;
+    justify-content: space-around;
+}
+
+.center {
+    text-align: center;
+} 
